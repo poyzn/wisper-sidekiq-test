@@ -1,0 +1,5 @@
+{
+  "name": "wisper-sidekiq-test",
+  "private": true,
+  "dependencies": {}
+}
